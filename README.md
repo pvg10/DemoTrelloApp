@@ -1,1 +1,1 @@
-Trello like App for experimenting new features.
+Demo Experimental App.
