@@ -1,1 +1,1 @@
-Demo Experimental App.
+Demo Trello App to learn new features.
